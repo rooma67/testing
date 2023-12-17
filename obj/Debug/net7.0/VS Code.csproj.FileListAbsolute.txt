@@ -1,0 +1,14 @@
+D:\VS Code\bin\Debug\net7.0\VS Code.exe
+D:\VS Code\bin\Debug\net7.0\VS Code.deps.json
+D:\VS Code\bin\Debug\net7.0\VS Code.runtimeconfig.json
+D:\VS Code\bin\Debug\net7.0\VS Code.dll
+D:\VS Code\bin\Debug\net7.0\VS Code.pdb
+D:\VS Code\obj\Debug\net7.0\VS Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\obj\Debug\net7.0\VS Code.AssemblyInfoInputs.cache
+D:\VS Code\obj\Debug\net7.0\VS Code.AssemblyInfo.cs
+D:\VS Code\obj\Debug\net7.0\VS Code.csproj.CoreCompileInputs.cache
+D:\VS Code\obj\Debug\net7.0\VS Code.dll
+D:\VS Code\obj\Debug\net7.0\refint\VS Code.dll
+D:\VS Code\obj\Debug\net7.0\VS Code.pdb
+D:\VS Code\obj\Debug\net7.0\VS Code.genruntimeconfig.cache
+D:\VS Code\obj\Debug\net7.0\ref\VS Code.dll
